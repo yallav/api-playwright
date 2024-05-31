@@ -1,0 +1,17 @@
+{
+  "name": "api-playwright",
+  "version": "1.0.0",
+  "description": "This repo demonstrates API automation testing pattern in Playwright",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^8.4.1",
+    "@playwright/test": "^1.44.1",
+    "@types/node": "^20.12.13",
+    "dotenv": "^16.4.5",
+    "luxon": "^3.4.4"
+  }
+}
